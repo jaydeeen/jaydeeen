@@ -1,16 +1,27 @@
-## Hi there 👋
+## About Me
+I am a Business Analytics undergraduate passionate about uncovering insights that drive smarter business decisions. I specialise in data analytics, visualisation and business inelligence, with experience using Python, R, and SQL to turn complex datasets into clear, actionable insights. 
 
-<!--
-**jaydeeen/jaydeeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Beyong analytics, I am exploring financial analytics to deepen my understanding of predictive modeling and data-driven strategy. I am driven by curiosity and enjoy applying analytics to solve real business challenges and create measurable impact. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+**Languages:** Python, R, Java, JavaScript 
+
+**Tools:** Git, Excel, SAP, Tableau, SQL, Firebase
+
+**Interests:** Turning data into insights through analytics, app development and development
+
+### Projects
+**PantryHub:** A pantry management system for hostel students to track food items, share excess food with others, and plan meals efficiently. It promotes sustainability and reduces food waste.
+
+https://github.com/plutonaruto/PantryHub.git
+
+**StudyHive:** An AI-powered study platform that helps students learn smarter through personalised cheatsheets, adaptive flashcards, and productivity tools like study plan generators, progress tracking, and collaborative study groups.
+
+https://github.com/jaydeeen/StudyHive.git
+
+### Connect with Me
+**LinkedIn:** www.linkedin.com/in/jadyn-c-168bb6284
+
+**Email:** jadyncheng@gmail.com
+
