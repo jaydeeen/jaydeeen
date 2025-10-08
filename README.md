@@ -5,9 +5,9 @@ Beyong analytics, I am exploring financial analytics to deepen my understanding 
 
 
 ### Technical Skills
-**Languages:** Python, R, Java, JavaScript 
+**Languages:** Python, R, SQL, Java, JavaScript 
 
-**Tools:** Git, Excel, SAP, Tableau, SQL, Firebase
+**Tools:** Git, Excel, SAP, Tableau, Firebase
 
 **Interests:** Turning data into insights through analytics, app development and development
 
